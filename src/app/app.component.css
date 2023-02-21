@@ -1,0 +1,12 @@
+a{
+    font-size: 10vh;
+    color:white;
+    text-align: center;
+}
+.navbar{
+    background-color: red;
+}
+
+body {
+    background-color: rgba(47, 53, 66,1.0);
+}
